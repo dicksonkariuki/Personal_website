@@ -27,3 +27,29 @@
    float: left;
    padding: 0 10px 10px 0; /* note the padding around a left floated image */
 }
+body {
+    color: #000;
+    font-size: 12px;
+    line-height: 1.4;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+/******************************************/
+/* LAYOUT
+/*******************************************/
+
+header {
+ width: 100%;
+ padding-bottom: 5%;
+}
+footer {
+ width: 100%;
+}
+.work{
+ border-top: 1px solid black;
+ border-bottom: 1px solid black;
+}
+.projects figure{
+ border: 1px solid black;
+}
